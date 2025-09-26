@@ -1,0 +1,4 @@
+NAME = '"string"' 	# NAME은 "string" 아니라 string
+
+all:
+	@echo $(NAME)
